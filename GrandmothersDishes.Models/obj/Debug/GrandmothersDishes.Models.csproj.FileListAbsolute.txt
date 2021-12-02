@@ -1,0 +1,9 @@
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\bin\Debug\netcoreapp3.1\GrandmothersDishes.Models.deps.json
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\bin\Debug\netcoreapp3.1\GrandmothersDishes.Models.dll
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\bin\Debug\netcoreapp3.1\GrandmothersDishes.Models.pdb
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\obj\Debug\netcoreapp3.1\GrandmothersDishes.Models.csproj.CoreCompileInputs.cache
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\obj\Debug\netcoreapp3.1\GrandmothersDishes.Models.AssemblyInfoInputs.cache
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\obj\Debug\netcoreapp3.1\GrandmothersDishes.Models.AssemblyInfo.cs
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\obj\Debug\netcoreapp3.1\GrandmothersDishes.Models.dll
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\obj\Debug\netcoreapp3.1\GrandmothersDishes.Models.pdb
+C:\repos\Нова папка\GrandmothersDishes\src\GrandmothersDishes\GrandmothersDishes.Models\obj\Debug\netcoreapp3.1\GrandmothersDishes.Models.csprojAssemblyReference.cache
